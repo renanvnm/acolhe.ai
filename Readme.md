@@ -1,6 +1,6 @@
 # 🤖 Acolhe.AI – Um Apoio Rápido em Momentos Difíceis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renanvnm/acolhe-ai/blob/main/acolhe_ai.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pgxMI-wM3cJcBAx80InQZ_afs0_r3MwY)
 
 **Você já se sentiu sobrecarregado, ansioso ou perdido, e gostaria de alguém para conversar – sem julgamento, só acolhimento?**
 
