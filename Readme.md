@@ -1,5 +1,7 @@
 # 🤖 Acolhe.AI – Um Apoio Rápido em Momentos Difíceis
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renanvnm/acolhe-ai/blob/main/acolhe_ai.ipynb)
+
 **Você já se sentiu sobrecarregado, ansioso ou perdido, e gostaria de alguém para conversar – sem julgamento, só acolhimento?**
 
 O **Acolhe.AI** é um assistente empático baseado em IA que oferece **primeiros socorros psicológicos** em situações de estresse emocional. Ele conversa com linguagem suave, identifica sinais de ansiedade ou crise, e sugere técnicas simples como respiração guiada e ancoragem sensorial.
